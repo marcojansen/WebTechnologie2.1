@@ -6,7 +6,7 @@
 </head>
 <body>
 Please log in to proceed <BR><BR>
-<FORM method = "get">
+<FORM action="login.java" method = "get">
 Name: <BR> <INPUT TYPE="text" NAME="Name" SIZE="30"><BR>
 Password: <BR> <Input TYPE="password" NAME="Password" SIZE="30"><BR>
 <input type="submit" value="Log in">
