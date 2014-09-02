@@ -1,6 +1,6 @@
-INDEX VERSION 1.3+/Users/MarcoJansen/School/Eclipse Workspace/Webtechnologie2.1TEST/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+INDEX VERSION 1.3+/Users/MarcoJansen/School/Eclipse Workspace/Webtechnologie2.1/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1744324630.index
 4047710552.index
-2031271993.index
-2210746627.index
-1882377992.index
-1641225351.index
+750630685.index
+2421899394.index
+69967271.index
