@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="US-ASCII">
+<title>Register</title>
+</head>
+<body>
+
+<FORM METHOD="post" >
+Naam: <BR> <INPUT TYPE="text" NAME="Name" SIZE="30"><BR>
+</FORM>
+
+</body>
+</html>

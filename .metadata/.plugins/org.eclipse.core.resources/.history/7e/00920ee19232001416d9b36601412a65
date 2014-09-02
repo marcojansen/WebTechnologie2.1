@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="US-ASCII">
+<title>Login</title>
+</head>
+<body>
+<center>
+Please log in to proceed <BR><BR>
+<FORM>
+Name: <BR> <INPUT TYPE="text" NAME="Name" SIZE="30"><BR>
+Password: <BR> <Input TYPE="password" NAME="Password" SIZE="30"><BR>
+<input type="submit" value="Log in">
+</FORM>
+</center>
+
+</body>
+</html>
