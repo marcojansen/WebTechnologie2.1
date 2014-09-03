@@ -1,0 +1,17 @@
+package model;
+
+public class Model {
+	private ArrayList<Account> accounts;
+	private Model model;
+	
+	private Model() {
+		
+	}
+	
+	public static getInstance() {
+		if ( model == null) {
+			model = new Model();
+		}
+	}
+
+}

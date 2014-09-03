@@ -4,16 +4,12 @@
 		<item value="1050" key="dialogWidth"/>
 		<item value="657" key="dialogHeight"/>
 		<list key="orderedProviders">
-			<item value="org.eclipse.ui.commands"/>
 		</list>
 		<list key="textArray">
-			<item value="switch"/>
 		</list>
 		<list key="orderedElements">
-			<item value="org.eclipse.ui.file.openWorkspace"/>
 		</list>
 		<list key="textEntries">
-			<item value="1"/>
 		</list>
 	</section>
 </section>

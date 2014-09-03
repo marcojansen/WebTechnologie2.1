@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="US-ASCII">
+<title>Register</title>
+</head>
+<body>
+Please fill in the fields to register <BR><BR>
+<FORM action = "RegisterServlet" method = "get" >
+Name: <BR> <INPUT TYPE="text" NAME="Name" SIZE="30"><BR>
+Password: <BR> <Input TYPE="password" NAME="Password" SIZE="30"><BR>
+<input type="radio" name="type" value="male">Huurder<br>
+<input type="radio" name="type" value="female">Verhuurder<br>
+<input type="submit" value="Register">
+</FORM>
+
+</body>
+</html>

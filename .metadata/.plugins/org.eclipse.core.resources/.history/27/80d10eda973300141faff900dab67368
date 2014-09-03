@@ -1,0 +1,20 @@
+package model;
+
+import java.util.ArrayList;
+
+public class Model {
+	private ArrayList<Account> accounts;
+	private static Model model;
+	
+	private Model() {
+		
+	}
+	
+	public static Model getInstance() {
+		if ( model == null) {
+			model = new Model();
+		}
+		return model;
+	}
+
+}
